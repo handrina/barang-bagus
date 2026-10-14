@@ -1,0 +1,2 @@
+# barang-bagus
+v1
